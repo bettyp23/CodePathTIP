@@ -1,8 +1,6 @@
 # CodePathTIP
 Intro to Technical Interview Prep Fall 2024
 
-# Introduction to Technical Interviewing Prep
-
 Welcome to my repository for the Introduction to Technical Interviewing Prep course. This repository contains solutions and problems from the course, which focuses on preparing for technical interviews through Python programming and problem-solving techniques.
 
 ## Course Overview
