@@ -1,0 +1,24 @@
+Tuesday, September 17 2024
+
+UMPIRE Interview Strategy
+    - step-by-step process to solving technical problems
+    - Understand -> match -> plan -> implement -> review -> evaluate
+
+Point of focus: Understand -> plan -> implement
+
+Understand -> 
+1. Understand what the interviwer is asking with clarifying questions
+2. Generate basic sample input and output
+3. Explore more usual edge cases
+4. Explore tradeoffs (memory, performance, code simplicity)
+
+Plan ->
+1. Describe your overall approach in 1-2 sentences
+2. Write down the steps in english
+3. Each step should be simple and clear
+
+Implement ->
+1. Translate your plan into code, step by step
+2. Clear plan should be relatively easy to translate. If it's hard to translate,
+    the plan probably isn't good enough
+3. Look up any basic python that you need
