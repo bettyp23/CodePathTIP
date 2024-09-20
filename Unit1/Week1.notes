@@ -1,5 +1,5 @@
 Tuesday, September 17 2024
-
+--------------------------------------------------------------------------------
 UMPIRE Interview Strategy
     - step-by-step process to solving technical problems
     - Understand -> match -> plan -> implement -> review -> evaluate
@@ -22,3 +22,17 @@ Implement ->
 2. Clear plan should be relatively easy to translate. If it's hard to translate,
     the plan probably isn't good enough
 3. Look up any basic python that you need
+
+
+
+Thursday, September 19 2024
+--------------------------------------------------------------------------------
+
+Deeper into Python programming by tackling a diverse array of problems that enhance
+    - list oepratins
+    - control structures
+    - basic algorithm thinking
+problems range from manipulating lists by printing, doubling, or 
+flipping signs of their elements to more complex tasks such as finding 
+the maximum difference within a list, counting items below a certain threshold,
+and identifying even numbers.
