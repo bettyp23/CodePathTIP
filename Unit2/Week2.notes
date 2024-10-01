@@ -1,0 +1,15 @@
+Tuesday, September 24 2024
+--------------------------------------------------------------------------------
+Python errors
+    Stack trace
+    - last part tells you where the error is 
+    - NameError: variable is not defined
+    - TypeError: data types dont go together
+    - indexError: list index doesnt exist or out of range
+
+tip: [-1] is the last index
+
+UPI Demo
+    Understand
+    Plan
+    Implement
