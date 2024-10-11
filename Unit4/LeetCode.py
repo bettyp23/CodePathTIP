@@ -5,12 +5,38 @@
 # than 1 and itself.
 
 def is_prime(n):
-    while (n > 0):
-        if ((n % n == 0 ) & (n / 1 == n )):
-            return True
-        else:
+    x  = 2
+
+    while x < n-1:
+        if n % x == 0:
             return False
+        x += 1
+        
+    return True
 
 print(is_prime(5))
 print(is_prime(12))
-print(is_prime(9))
+print(is_prime(15))
+
+"""
+Write function reverse_list()
+return elements of list in reversed order
+not allowed to use list slicing (lst[::-1])
+"""
+
+
+def reverse_list(lst):
+    start = 0
+    end = len(lst) -1 
+
+    while (start != end or start < end):
+        lst[start], lst[end] = lst[end], lst [start]
+
+        start += 1
+        end -= 1
+    return lst 
+
+
+lst =  [ 1, 2, 3, 4, 5 ]
+print(reverse_list(lst))
+
