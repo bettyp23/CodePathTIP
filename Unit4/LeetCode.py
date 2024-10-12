@@ -40,3 +40,20 @@ def reverse_list(lst):
 lst =  [ 1, 2, 3, 4, 5 ]
 print(reverse_list(lst))
 
+
+
+
+"""
+make up practice
+"""
+
+def index_to_value_map(lst):
+    index = {}
+
+    for item in lst:
+        lst.append()
+        print(index)
+
+lst = ["apple", "banana", "cherry"]
+
+#print(index_to_value_map(lst))
