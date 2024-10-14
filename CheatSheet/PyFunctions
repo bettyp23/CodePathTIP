@@ -1,0 +1,3 @@
+split() -> This line splits the original sentence into a list of words.
+join() -> method takes the list of words and connects them into a single string with spaces in between.
+

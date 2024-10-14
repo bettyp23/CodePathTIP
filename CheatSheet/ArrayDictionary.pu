@@ -1,0 +1,5 @@
+List	Element	Individual data or item in the list.
+List	Index	Position of an element in the list, starting from 0.
+Dictionary	Key	Identifier used to access values in a dictionary.
+Dictionary	Value	Data associated with a key in the dictionary.
+Dictionary	Item	A key-value pair as a whole.
